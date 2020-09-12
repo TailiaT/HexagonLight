@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexagonLight", "HexagonLight\HexagonLight.csproj", "{EFC0E672-CFCA-4B39-A9E7-21117A8A7F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSerialPort", "TestSerialPort\TestSerialPort.csproj", "{6E98211F-587B-4010-871D-CE43972EFB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC0E672-CFCA-4B39-A9E7-21117A8A7F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC0E672-CFCA-4B39-A9E7-21117A8A7F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC0E672-CFCA-4B39-A9E7-21117A8A7F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC0E672-CFCA-4B39-A9E7-21117A8A7F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E98211F-587B-4010-871D-CE43972EFB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E98211F-587B-4010-871D-CE43972EFB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E98211F-587B-4010-871D-CE43972EFB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E98211F-587B-4010-871D-CE43972EFB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779C09C9-C3CD-42F8-9612-0CB3DCD35CA1}
+	EndGlobalSection
+EndGlobal
